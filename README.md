@@ -1,6 +1,6 @@
 # campus equipment checkout
 
-tracks laptops, tablets, and lab kits.
+tracks laptops, cameras, tablets, and lab kits.
 
 team: rafi, teja, and mason
 student git workflow practice
