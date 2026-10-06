@@ -1,2 +1,6 @@
-# campus-equipment-checkout
+# campus equipment checkout
+
+tracks laptops, cameras, and lab kits available for student checkout.
+
+team: rafi, teja, and mason
 student git workflow practice
