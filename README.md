@@ -8,3 +8,5 @@ student git workflow practice
 equipment must be returned before 5 pm.
 
 rafi - camera
+
+Teja: Contributed to the Campus Equipment Checkout project and practiced Git version control.
